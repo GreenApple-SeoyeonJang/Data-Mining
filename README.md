@@ -3,9 +3,7 @@
 
 
 
-1. Titanic: Machine Learning from Disaster
-
-https://www.kaggle.com/c/titanic
+1. Titanic: Machine Learning from Disaster (https://www.kaggle.com/c/titanic)
 
 Gradient Descent 알고리즘 사용
 
