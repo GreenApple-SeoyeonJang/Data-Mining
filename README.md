@@ -5,6 +5,7 @@
 ① Simple Association Rule Miner 구현
 
 
+    
 ② Titanic: Machine Learning from Disaster (https://www.kaggle.com/c/titanic)
 
  Gradient Descent 알고리즘 사용
