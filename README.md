@@ -18,6 +18,6 @@ Gradient Descent 알고리즘 사용
 *Discretization / Binarization : Sex와 Embarked feature는 각각 female/male와 S/C/P로 나누었다.*
 
  
- 
+
  
 2. Simple Association Rule Miner 구현
