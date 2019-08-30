@@ -1,5 +1,5 @@
 # Data-Mining
-데이터마이닝 연습
+*데이터마이닝 연습*
 
 
 ① Simple Association Rule Miner 구현
